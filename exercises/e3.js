@@ -16,7 +16,6 @@
 
 // Your code goes here...
 
-<<<<<<< HEAD
 function doesArrayIncludeItemsBetweenVals(arr, val1, val2){
   for(let i = 0; i < arr.length; i++){
     const num = arr[i];
@@ -27,9 +26,6 @@ function doesArrayIncludeItemsBetweenVals(arr, val1, val2){
   }
   return false;
 }
-=======
-
->>>>>>> 424adfacf8b34f83e067a71ee93944358de77303
 
 
 /**
