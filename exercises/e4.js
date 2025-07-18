@@ -9,13 +9,10 @@
  * splitFirstAndLastNames('John Smith') => ['John', 'Smith']
  */
 
-<<<<<<< HEAD
 const splitFirstAndLastNames = (str) => str.split(' ');
-=======
 function splitFirstAndLastNames(str) {
   return str.split(' ');
 }
->>>>>>> 424adfacf8b34f83e067a71ee93944358de77303
 
 
 /** =========================
